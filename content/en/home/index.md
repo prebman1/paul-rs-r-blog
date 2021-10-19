@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Introduction"
+title: "Paul R's R Blog"
 headless: true
 ---
 
-I'm a theme for Hugo
+Public Health, R, REDCap
