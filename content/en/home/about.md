@@ -4,11 +4,10 @@ image: "profile.jpg"
 weight: 8
 ---
 
-This is a test to see if I can update this content. **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
+I'm a PhD student in the Department of Mental Health at the Johns Hopkins Bloomberg School of Public Health. I study global mental health, suicide prevention, and biostatistical methods.
 
-### Features
+### Education
 
-* Responsive display on any size screen
-* Light and Dark themes right out of the box
-* Multilingual - supports side-by-side content in multiple languages
-* Any number of custom index page sections from Markdown files
+* BA, Psychology, Macalester College
+* MPH, Epidemiology and Biostatistics, Johns Hopkins Bloomberg School of Public Health
+
