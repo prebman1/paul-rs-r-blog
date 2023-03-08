@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Paul Rebman"
 image: "profile.jpg"
 weight: 8
 ---
